@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/jswill88/api-practice#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "superagent": "^5.2.2"
+    "superagent": "^5.2.2",
+    "trakt.tv": "^8.0.0",
+    "unirest": "^0.6.0"
   }
 }
